@@ -73,9 +73,16 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "Fisheries",
-      description: "Mobile App",
-      imgurl: "images/portfolio/fisheries.png",
+      name: "Fisheries App",
+      description: "Mobile App (React Native)",
+      imgurl: "images/portfolio/fisheriesApp.jpg",
+      URL: "https://github.com/nykwlas/FisheriesApp",
+    },
+    {
+      name: "Fisheries Web",
+      description: "Web App (React JS)",
+      imgurl: "images/portfolio/fisheriesWeb.jpg",
+      URL: "https://fisheries-2c0cb.web.app/",
     },
   ],
   testimonials: [
