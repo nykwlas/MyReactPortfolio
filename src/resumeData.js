@@ -24,7 +24,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "I'm in my fourth year of studies towards a bachelor's in Computer Science at the University of Cyprus. I have a general grade of 8.07/10 in my courses and I have developed excellent programming and teamwork skills through the group projects and homework exercises. Also I worked as an intern and gained professional experience in my field as well as valuable contacts. Now I am looking for a job as a Software Engineer, to further develop and use my skillsthrough a training agreement in computer science sector.",
+    "I'm in my fourth year of studies towards a bachelor's in Computer Science at the University of Cyprus. I have a general grade of 8.07/10 in my courses and I have developed excellent programming and teamwork skills through the group projects and homework exercises. Also I worked as an intern and gained professional experience in my field as well as valuable contacts. Now I am looking to further develop and use my skills as a Software Engineer through any kind of training agreement in computer science sector.",
   address: "Cyprus",
   website: "nykwlas@gmail.com",
   education: [
